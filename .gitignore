@@ -1,0 +1,10 @@
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+*.onnx
+*.pt
+*.pth
+mlruns/
+.env
+node_modules/
+.venv/
